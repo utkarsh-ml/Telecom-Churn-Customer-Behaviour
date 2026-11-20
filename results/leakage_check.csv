@@ -1,0 +1,7 @@
+column,use_in_risk_score,reason
+customerID,No,ID only
+Churn / churn,No,Target (leakage)
+TotalCharges,No,Cumulative billing: use cautiously
+Contract,Yes,Known contract
+tenure,Yes,Known tenure
+PaymentMethod,Yes,Known payment type

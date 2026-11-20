@@ -1,0 +1,22 @@
+TELECOM CUSTOMER CHURN - SIMPLE REPORT
+
+Total customers: 7043
+Overall churn rate: 26.54%
+High-risk customers: 1888
+Observed high-risk churn rate: 59.48%
+
+RETENTION IDEAS
+1. Test targeted offers with short-tenure, month-to-month customers.
+2. Review customer experience and support-plan needs.
+3. Compare payment and internet-service groups before choosing outreach.
+4. Use a randomized pilot to measure whether any offer really reduces churn.
+
+ILLUSTRATIVE RETENTION SCENARIO
+Assumed outreach share of high-risk customers: 50%
+Assumed churn prevention among contacted at-risk customers: 10%
+Estimated customers retained: 56.2
+
+LIMITATIONS
+Observed relationships do not prove cause and effect.
+The IBM data has no measured support-ticket counts or actual internet-usage volume.
+The risk scoring rules and campaign effectiveness assumptions are not validated.
